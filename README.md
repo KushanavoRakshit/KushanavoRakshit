@@ -1,7 +1,8 @@
-![HD-wallpaper-wolf-meaning-spirit-quote-animal-wisdom](https://github.com/user-attachments/assets/1723e4d2-86ed-4543-8522-bc15b241c207)
 
 # 💫 About Me:
 Hola Amigos !!<br>Kushanavo Rakshit this side !!<br><br>Interested in learning about the nuances of Machine Learning,<br>with specific applications in healthcare and bio-informatics <br><br>Also possess a knack for Quantum computing and AI,<br>irrespective of the domain !!<br><br>College - goer by day ;<br>Coder by night ;<br><br>Do shoot a DM in my socials,<br>anticipating an interesting discussion on technology, <br>art and philosophy in general !!
+
+![GITHUB IMAGE](https://github.com/user-attachments/assets/50682ef9-1855-4592-9215-d9bea50939cd)
 
 
 ## 🌐 Socials:
