@@ -1,4 +1,4 @@
-![GITHUB IMAGE](https://images.app.goo.gl/9svLHxspo4dNRvUa6)
+![GITHUB IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F885238870486939440%2F&psig=AOvVaw0ndk8V4D3cAf24LhNlFj-y&ust=1746815352748000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPirz7bAlI0DFQAAAAAdAAAAABAE)
 
 # 💫 About Me:
 Hola Amigos !!<br>Kushanavo Rakshit this side !!<br><br>Interested in learning about the nuances of Machine Learning,<br>with specific applications in healthcare and bio-informatics !!<br><br>Also possess a knack for Quantum computing and AI,<br>irrespective of the domain !!<br><br>College - goer by day ;<br>Coder by night ;<br><br>Do shoot a DM in my socials,<br>anticipating an interesting discussion on technology,<br>art and philosophy in general !!
