@@ -1,5 +1,3 @@
-![GITHUB IMAGE](https://in.pinterest.com/pin/885238870486939440/)
-
 # 💫 About Me:
 Hola Amigos !!<br>Kushanavo Rakshit this side !!<br><br>Interested in learning about the nuances of Machine Learning,<br>with specific applications in healthcare and bio-informatics !!<br><br>Also possess a knack for Quantum computing and AI,<br>irrespective of the domain !!<br><br>College - goer by day ;<br>Coder by night ;<br><br>Do shoot a DM in my socials,<br>anticipating an interesting discussion on technology,<br>art and philosophy in general !!
 
