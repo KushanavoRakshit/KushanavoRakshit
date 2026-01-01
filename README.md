@@ -1,27 +1,55 @@
-# 💫 About Me:
-Hola Amigos !!<br>Kushanavo Rakshit this side !!<br><br>Interested in learning about the nuances of Machine Learning,<br>with specific applications in healthcare and bio-informatics !!<br><br>Also possess a knack for Quantum computing and AI,<br>irrespective of the domain !!<br><br>College - goer by day ;<br>Coder by night ;<br><br>Do shoot a DM in my socials,<br>anticipating an interesting discussion on technology,<br>art and philosophy in general !!
+## 👋 About Me
+Hi, I’m **Kushanavo Rakshit**  
 
+I work at the intersection of **Machine Learning**, **Healthcare**, and **Bio-informatics**,  
+with a strong interest in **Deep Learning**, **AI-driven diagnostics**, and **data-centric modeling**.
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+Alongside this, I actively explore **Quantum Computing & AI**, focusing on foundational concepts and cross-domain impact.
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KushanavoRakshit&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KushanavoRakshit&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanavoRakshit&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KushanavoRakshit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KushanavoRakshit&limit=5&theme=radical&combine_all_yearly_contributions=true)
+🎓 College student | 💻 Programmer | 🔬 Research-oriented learner  
+📫 Open to discussions on **technology, art, and philosophy**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KushanavoRakshit&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧠 Research & Technical Interests
+- Machine Learning for Healthcare & Biosensing  
+- Biomedical Data Analysis & Bio-informatics  
+- Deep Learning (CNNs, Transformers – applied focus)  
+- Quantum Computing & Quantum-AI interfaces  
+- Applied AI with real-world constraints  
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-333333?style=flat&logo=google-cloud)
+![Anaconda](https://img.shields.io/badge/Anaconda-333333?style=flat&logo=anaconda)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown)
+
+> ⚠️ Neutral badge color ensures **equal readability in dark & light mode**
+
+---
+
+## 📊 GitHub Activity
+![](https://github-readme-stats.vercel.app/api?username=KushanavoRakshit&hide_border=true&show_icons=true&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KushanavoRakshit&hide_border=true&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanavoRakshit&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 🏆 Highlights
+![](https://github-profile-trophy.vercel.app/?username=KushanavoRakshit&margin-w=8&no-bg=true&no-frame=true)
+
+---
+
+### ✍️ Thought of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=KushanavoRakshit&color=0)
