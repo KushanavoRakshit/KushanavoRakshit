@@ -6,19 +6,12 @@ with a strong interest in **Deep Learning**, **AI-driven diagnostics**, and **da
 
 Alongside this, I actively explore **Quantum Computing & AI**, focusing on foundational concepts and cross-domain impact.
 
-🎓 College student | 💻 Programmer | 🔬 Research-oriented learner  
-📫 Open to discussions on **technology, art, and philosophy**
-
----
-
 ## 🧠 Research & Technical Interests
 - Machine Learning for Healthcare & Biosensing  
 - Biomedical Data Analysis & Bio-informatics  
 - Deep Learning (CNNs, Transformers – applied focus)  
 - Quantum Computing & Quantum-AI interfaces  
 - Applied AI with real-world constraints  
-
----
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
@@ -31,25 +24,18 @@ Alongside this, I actively explore **Quantum Computing & AI**, focusing on found
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown)
 
-> ⚠️ Neutral badge color ensures **equal readability in dark & light mode**
-
----
 
 ## 📊 GitHub Activity
 ![](https://github-readme-stats.vercel.app/api?username=KushanavoRakshit&hide_border=true&show_icons=true&theme=default)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KushanavoRakshit&hide_border=true&theme=default)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanavoRakshit&layout=compact&hide_border=true&theme=default)
 
----
 
 ## 🏆 Highlights
 ![](https://github-profile-trophy.vercel.app/?username=KushanavoRakshit&margin-w=8&no-bg=true&no-frame=true)
 
----
-
 ### ✍️ Thought of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
 
 ![](https://visitcount.itsvg.in/api?id=KushanavoRakshit&color=0)
