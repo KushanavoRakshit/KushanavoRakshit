@@ -24,15 +24,13 @@ Alongside this, I actively explore **Quantum Computing & AI**, focusing on found
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown)
 
-
 ## 📊 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=KushanavoRakshit&hide_border=true&show_icons=true&theme=default)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KushanavoRakshit&hide_border=true&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanavoRakshit&layout=compact&hide_border=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=KushanavoRakshit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![](https://streak-stats.demolab.com?user=KushanavoRakshit&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushanavoRakshit&layout=compact&hide_border=true)
 
-
-## 🏆 Highlights
-![](https://github-profile-trophy.vercel.app/?username=KushanavoRakshit&margin-w=8&no-bg=true&no-frame=true)
+## 🏆 GitHub Highlights
+![](https://github-profile-trophy.vercel.app/?username=KushanavoRakshit&theme=flat&margin-w=8)
 
 ### ✍️ Thought of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
