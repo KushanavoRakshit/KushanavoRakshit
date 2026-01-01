@@ -2,7 +2,7 @@
 Hi, I’m **Kushanavo Rakshit**  
 
 I work at the intersection of **Machine Learning**, **Healthcare** and **Bio-informatics**,  
-with a strong interest in **Deep Learning**, **AI-driven diagnostics**, and **data-centric modeling**.
+with a strong interest in **Deep Learning**, **AI-driven diagnostics** and **data-centric modeling**.
 
 Alongside this, I actively explore **Quantum Computing & AI**, focusing on foundational concepts and cross-domain impact.
 
